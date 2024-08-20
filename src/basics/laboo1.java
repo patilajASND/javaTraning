@@ -1,4 +1,4 @@
-package src;
+package src.basics;
 
 public class laboo1 {
         public static void main(String[]args){
@@ -11,11 +11,14 @@ public class laboo1 {
             System.out.println(o+1);
             short d=2;
             int age = 12;
-            long num=1234567;
+            long num=1234567l;
+            char q='s';
+
+            System.out.println(d + age + num + q );
             //    "   ==================================="
             //Float type data type
             float f=1.3f;
-            double q= 2345.555;
+            double s= 2345.555;
 
             // boolean
             boolean l =true;
