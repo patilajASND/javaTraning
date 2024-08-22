@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="449c6d95-630b-4cb8-832c-915425c727c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics_02/lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/laboo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaTraning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTraning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/laboo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/laboo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/laboo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_02/laboo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraning/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lab004">
+  <component name="RunManager" selected="Application.lab005">
     <configuration name="hellow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hellow" />
       <module name="JavaTraning" />
@@ -59,6 +54,19 @@
     </configuration>
     <configuration name="lab004" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.basics_02.lab004" />
+      <module name="JavaTraning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.basics_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_02.lab005" />
       <module name="JavaTraning" />
       <extension name="coverage">
         <pattern>
@@ -111,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lab005" />
         <item itemvalue="Application.laboo3" />
         <item itemvalue="Application.laboo2" />
         <item itemvalue="Application.laboo1" />
