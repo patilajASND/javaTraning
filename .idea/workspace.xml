@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="449c6d95-630b-4cb8-832c-915425c727c1" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/basics_02/lab0013conditions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_02/lab009Stringpool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_02/lab009Stringpool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraning/src/basics_02/lab0013conditions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraning/src/basics_02/lab0013conditions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraning/src/basics_02/lab009Stringpool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraning/src/basics_02/lab009Stringpool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/lab0013conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_02/lab0013conditions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +46,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.lab0013conditions">
     <configuration name="lab0011ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.basics_02.lab0011ternary" />
+      <module name="JavaTraning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.basics_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab0013conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_02.lab0013conditions" />
       <module name="JavaTraning" />
       <extension name="coverage">
         <pattern>
@@ -65,19 +79,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.basics_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics.lab006" />
-      <module name="JavaTraning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lab0013conditions" />
         <item itemvalue="Application.lab0011ternary" />
         <item itemvalue="Application.lab009examp" />
         <item itemvalue="Application.lab009Stringpool" />
         <item itemvalue="Application.laboo7" />
-        <item itemvalue="Application.lab006" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +144,28 @@
       <option name="presentableId" value="Default" />
       <updated>1724083879413</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1725085135219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725085135219</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <created>1725085235291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725085235291</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first">
+      <created>1725085260927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725085260927</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,5 +182,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
     <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaTraning$lab0013conditions.ic" NAME="lab0013conditions Coverage Results" MODIFIED="1725087586617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>src.basics_02.*</FILTER>
+    </SUITE>
   </component>
 </project>
