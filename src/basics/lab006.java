@@ -15,15 +15,19 @@ public class lab006 {
 
         System.out.println("");
 //
-        byte b=65;
-        System.out.println('A'== 65.2);
-
-        System.out.println("");
-
-        int a =20;
-        int x=34;
-        Boolean d= a==x;
-
+//        byte b=65;
+//        System.out.println('A'== 65.2);
+//
+//        System.out.println("");
+//
+//        int a =20;
+//        int x=34;
+//        Boolean d= a==x;
+//
+     int a=34;
+     int d=44;
+     int f=78;
+        System.out.println(Math.subtractExact(a,d));
 
     }
 }
