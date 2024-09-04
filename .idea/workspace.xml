@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="449c6d95-630b-4cb8-832c-915425c727c1" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/basics/examples/lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_02/lab0015forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/examples/lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/examples/lab009.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraning/src/basics_02/lab0015forloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraning/src/basics_02/lab0015forloop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/lab0015forloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_02/lab0015forloop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

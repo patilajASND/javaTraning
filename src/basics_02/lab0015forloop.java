@@ -6,9 +6,14 @@ public class lab0015forloop {
         // ->For the for loop we want to First initalzie .
         // ->second we need to put the conditon.
         // ->increment/Decrement
-        int i=3;
+        //
 
-        for (i=3;i>=0;i--){
+        // exit code 0 -- normal
+        //exit code 1 -- forced
+        //exit code 130-137 -- is user interped
+        int i;
+
+        for (i=1;i<=10;i++){
             System.out.println(i);
         }
 
