@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="449c6d95-630b-4cb8-832c-915425c727c1" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/basics/examples/lab0011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/examples/lab0012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/examples/lab0013.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraning/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="449c6d95-630b-4cb8-832c-915425c727c1" name="Changes" comment="Merge remote-tracking branch 'origin/main'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725990646394</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1728409831068</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728409831068</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,7 +239,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaTraning$lab0013conditions.ic" NAME="lab0013conditions Coverage Results" MODIFIED="1725087586617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
